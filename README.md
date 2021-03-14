@@ -23,3 +23,6 @@ https://jordynvalence.github.io/horiseon-site-hw/
 --<nav> links work, but will not line up next to each other dispite making them inline. a ::margin shows next to them on devtools, Not sure why and having difficulty finding a solution without spending too much time on it.
 
 -- Aside bar was having difficulty aligning to the right, even with the "float:right" so I applied an absolute position on it. It looks fine on my computer, but I can see it being an issue on something smaller like a laptop. Would fix if I had more time.
+
+## Screenshots of comments
+https://imgur.com/a/RSC7A3S
